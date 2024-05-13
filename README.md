@@ -11,6 +11,7 @@ Delete a password from the database
 
 **Technologies Used**
 Java
+
 PostgreSQL (as the database)
 
 **Installation**
